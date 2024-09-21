@@ -299,3 +299,33 @@
 2024-09-21 21:33:10,063 [main] INFO ebanking - providing customer details
 2024-09-21 21:33:20,622 [main] INFO ebanking - validation started
 2024-09-21 21:33:20,622 [main] INFO ebanking - test passed !!...
+2024-09-21 22:01:57,976 [main] INFO ebanking - test has started
+2024-09-21 22:01:57,992 [main] INFO ebanking - URL is opened
+2024-09-21 22:01:58,053 [main] INFO ebanking - username entered
+2024-09-21 22:01:58,101 [main] INFO ebanking - password entered
+2024-09-21 22:01:59,319 [main] INFO ebanking - login test passed
+2024-09-21 22:02:04,459 [main] INFO ebanking - user name provided
+2024-09-21 22:02:04,534 [main] INFO ebanking - password provided
+2024-09-21 22:02:09,742 [main] INFO ebanking - providing customer details
+2024-09-21 22:02:14,194 [main] INFO ebanking - test has started
+2024-09-21 22:02:14,210 [main] INFO ebanking - URL is opened
+2024-09-21 22:02:14,303 [main] INFO ebanking - username entered
+2024-09-21 22:02:14,366 [main] INFO ebanking - password entered
+2024-09-21 22:02:16,301 [main] INFO ebanking - login test passed
+2024-09-21 22:02:18,078 [main] INFO ebanking - validation started
+2024-09-21 22:02:18,081 [main] INFO ebanking - test passed !!...
+2024-09-21 22:02:20,681 [main] INFO ebanking - user name provided
+2024-09-21 22:02:20,732 [main] INFO ebanking - password provided
+2024-09-21 22:02:29,753 [main] INFO ebanking - providing customer details
+2024-09-21 22:02:38,539 [main] INFO ebanking - validation started
+2024-09-21 22:02:38,548 [main] INFO ebanking - test passed !!...
+2024-09-21 22:03:31,421 [main] INFO ebanking - test has started
+2024-09-21 22:03:31,438 [main] INFO ebanking - URL is opened
+2024-09-21 22:03:31,493 [main] INFO ebanking - username entered
+2024-09-21 22:03:31,539 [main] INFO ebanking - password entered
+2024-09-21 22:03:33,785 [main] INFO ebanking - login test passed
+2024-09-21 22:03:41,021 [main] INFO ebanking - user name provided
+2024-09-21 22:03:41,069 [main] INFO ebanking - password provided
+2024-09-21 22:03:46,808 [main] INFO ebanking - providing customer details
+2024-09-21 22:04:00,583 [main] INFO ebanking - validation started
+2024-09-21 22:04:00,594 [main] INFO ebanking - test passed !!...

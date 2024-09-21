@@ -299,3 +299,33 @@
 2024-09-21 21:33:10,063 - ebanking -INFO - providing customer details
 2024-09-21 21:33:20,622 - ebanking -INFO - validation started
 2024-09-21 21:33:20,622 - ebanking -INFO - test passed !!...
+2024-09-21 22:01:57,976 - ebanking -INFO - test has started
+2024-09-21 22:01:57,992 - ebanking -INFO - URL is opened
+2024-09-21 22:01:58,053 - ebanking -INFO - username entered
+2024-09-21 22:01:58,101 - ebanking -INFO - password entered
+2024-09-21 22:01:59,319 - ebanking -INFO - login test passed
+2024-09-21 22:02:04,459 - ebanking -INFO - user name provided
+2024-09-21 22:02:04,534 - ebanking -INFO - password provided
+2024-09-21 22:02:09,742 - ebanking -INFO - providing customer details
+2024-09-21 22:02:14,194 - ebanking -INFO - test has started
+2024-09-21 22:02:14,210 - ebanking -INFO - URL is opened
+2024-09-21 22:02:14,303 - ebanking -INFO - username entered
+2024-09-21 22:02:14,366 - ebanking -INFO - password entered
+2024-09-21 22:02:16,301 - ebanking -INFO - login test passed
+2024-09-21 22:02:18,078 - ebanking -INFO - validation started
+2024-09-21 22:02:18,081 - ebanking -INFO - test passed !!...
+2024-09-21 22:02:20,681 - ebanking -INFO - user name provided
+2024-09-21 22:02:20,732 - ebanking -INFO - password provided
+2024-09-21 22:02:29,753 - ebanking -INFO - providing customer details
+2024-09-21 22:02:38,539 - ebanking -INFO - validation started
+2024-09-21 22:02:38,548 - ebanking -INFO - test passed !!...
+2024-09-21 22:03:31,421 - ebanking -INFO - test has started
+2024-09-21 22:03:31,438 - ebanking -INFO - URL is opened
+2024-09-21 22:03:31,493 - ebanking -INFO - username entered
+2024-09-21 22:03:31,539 - ebanking -INFO - password entered
+2024-09-21 22:03:33,785 - ebanking -INFO - login test passed
+2024-09-21 22:03:41,021 - ebanking -INFO - user name provided
+2024-09-21 22:03:41,069 - ebanking -INFO - password provided
+2024-09-21 22:03:46,808 - ebanking -INFO - providing customer details
+2024-09-21 22:04:00,583 - ebanking -INFO - validation started
+2024-09-21 22:04:00,594 - ebanking -INFO - test passed !!...
