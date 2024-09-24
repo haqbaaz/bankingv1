@@ -6,7 +6,7 @@
     <listener class-name="com.bankingv1.utilites.Reporting"></listener>
 </listeners>
     
-<test name="BankingApp Test">
+<test name="BankingApp chrome Test">
     <parameter name="browser" value="chrome" />
     <classes>
         <class name="com.bankingv1.testCase.TC_LoginTest_001"/>
@@ -14,7 +14,7 @@
         <class name="com.bankingv1.testCase.TC_AddCustomer"></class>
 
     </classes>
-
 </test>
+
 
 </suite>
