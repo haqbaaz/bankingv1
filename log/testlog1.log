@@ -465,3 +465,13 @@
 2024-09-23 19:33:35,676 [main] INFO ebanking - user name provided
 2024-09-23 19:33:35,694 [main] INFO ebanking - password provided
 2024-09-23 19:33:40,154 [main] INFO ebanking - providing customer details
+2024-09-25 11:35:54,286 [main] INFO ebanking - test has started
+2024-09-25 11:35:54,311 [main] INFO ebanking - URL is opened
+2024-09-25 11:35:54,391 [main] INFO ebanking - username entered
+2024-09-25 11:35:54,445 [main] INFO ebanking - password entered
+2024-09-25 11:35:55,886 [main] INFO ebanking - login test passed
+2024-09-25 11:36:11,328 [main] INFO ebanking - user name provided
+2024-09-25 11:36:11,376 [main] INFO ebanking - password provided
+2024-09-25 11:36:18,246 [main] INFO ebanking - providing customer details
+2024-09-25 11:36:26,793 [main] INFO ebanking - validation started
+2024-09-25 11:36:26,802 [main] INFO ebanking - test passed !!...
