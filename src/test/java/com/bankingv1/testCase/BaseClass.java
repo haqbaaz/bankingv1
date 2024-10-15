@@ -20,7 +20,7 @@ import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
 
-public class BaseClass {
+public class  BaseClass {
 
 	ReadConfig readConfig = new ReadConfig();
 	
