@@ -586,3 +586,44 @@
 2024-10-15 11:40:51,674 [main] INFO ebanking - password entered
 2024-10-15 11:40:57,533 [main] INFO ebanking - user name provided
 2024-10-15 11:40:57,570 [main] INFO ebanking - password provided
+2024-10-15 11:47:10,942 [main] INFO ebanking - test has started
+2024-10-15 11:47:10,958 [main] INFO ebanking - URL is opened
+2024-10-15 11:47:11,015 [main] INFO ebanking - username entered
+2024-10-15 11:47:11,052 [main] INFO ebanking - password entered
+2024-10-15 11:47:12,157 [main] INFO ebanking - login test passed
+2024-10-15 11:47:19,802 [main] INFO ebanking - user name provided
+2024-10-15 11:47:19,853 [main] INFO ebanking - password provided
+2024-10-15 11:47:24,371 [main] INFO ebanking - providing customer details
+2024-10-15 11:47:32,516 [main] INFO ebanking - validation started
+2024-10-15 11:47:32,516 [main] INFO ebanking - test passed !!...
+2024-10-23 12:00:40,378 [main] INFO ebanking - test has started
+2024-10-23 12:00:40,396 [main] INFO ebanking - URL is opened
+2024-10-27 13:11:07,778 [main] INFO ebanking - test has started
+2024-10-27 13:11:07,807 [main] INFO ebanking - URL is opened
+2024-10-27 13:34:16,527 [main] INFO ebanking - test has started
+2024-10-27 13:34:16,546 [main] INFO ebanking - URL is opened
+2024-10-29 08:58:00,064 [main] INFO ebanking - test has started
+2024-10-29 08:58:00,088 [main] INFO ebanking - URL is opened
+2024-10-29 08:59:34,258 [main] INFO ebanking - test has started
+2024-10-29 08:59:34,275 [main] INFO ebanking - URL is opened
+2024-10-29 09:04:20,619 [main] INFO ebanking - test has started
+2024-10-29 09:04:20,635 [main] INFO ebanking - URL is opened
+2024-10-29 09:04:20,711 [main] INFO ebanking - username entered
+2024-10-29 09:04:20,773 [main] INFO ebanking - password entered
+2024-10-29 09:04:24,559 [main] INFO ebanking - user name provided
+2024-10-29 09:04:24,612 [main] INFO ebanking - password provided
+2024-10-29 09:04:28,848 [main] INFO ebanking - providing customer details
+2024-10-29 09:05:20,608 [main] INFO ebanking - test has started
+2024-10-29 09:05:20,625 [main] INFO ebanking - URL is opened
+2024-10-29 09:05:20,691 [main] INFO ebanking - username entered
+2024-10-29 09:05:20,759 [main] INFO ebanking - password entered
+2024-10-29 09:05:24,357 [main] INFO ebanking - user name provided
+2024-10-29 09:05:24,410 [main] INFO ebanking - password provided
+2024-10-29 09:05:28,607 [main] INFO ebanking - providing customer details
+2024-10-29 09:09:55,910 [main] INFO ebanking - test has started
+2024-10-29 09:09:55,927 [main] INFO ebanking - URL is opened
+2024-10-29 09:09:56,008 [main] INFO ebanking - username entered
+2024-10-29 09:09:56,061 [main] INFO ebanking - password entered
+2024-10-29 09:10:00,053 [main] INFO ebanking - user name provided
+2024-10-29 09:10:00,114 [main] INFO ebanking - password provided
+2024-10-29 09:10:04,389 [main] INFO ebanking - providing customer details

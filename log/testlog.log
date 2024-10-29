@@ -586,3 +586,44 @@
 2024-10-15 11:40:51,674 - ebanking -INFO - password entered
 2024-10-15 11:40:57,533 - ebanking -INFO - user name provided
 2024-10-15 11:40:57,570 - ebanking -INFO - password provided
+2024-10-15 11:47:10,942 - ebanking -INFO - test has started
+2024-10-15 11:47:10,958 - ebanking -INFO - URL is opened
+2024-10-15 11:47:11,015 - ebanking -INFO - username entered
+2024-10-15 11:47:11,052 - ebanking -INFO - password entered
+2024-10-15 11:47:12,157 - ebanking -INFO - login test passed
+2024-10-15 11:47:19,802 - ebanking -INFO - user name provided
+2024-10-15 11:47:19,853 - ebanking -INFO - password provided
+2024-10-15 11:47:24,371 - ebanking -INFO - providing customer details
+2024-10-15 11:47:32,516 - ebanking -INFO - validation started
+2024-10-15 11:47:32,516 - ebanking -INFO - test passed !!...
+2024-10-23 12:00:40,378 - ebanking -INFO - test has started
+2024-10-23 12:00:40,396 - ebanking -INFO - URL is opened
+2024-10-27 13:11:07,778 - ebanking -INFO - test has started
+2024-10-27 13:11:07,807 - ebanking -INFO - URL is opened
+2024-10-27 13:34:16,527 - ebanking -INFO - test has started
+2024-10-27 13:34:16,546 - ebanking -INFO - URL is opened
+2024-10-29 08:58:00,064 - ebanking -INFO - test has started
+2024-10-29 08:58:00,088 - ebanking -INFO - URL is opened
+2024-10-29 08:59:34,258 - ebanking -INFO - test has started
+2024-10-29 08:59:34,275 - ebanking -INFO - URL is opened
+2024-10-29 09:04:20,619 - ebanking -INFO - test has started
+2024-10-29 09:04:20,635 - ebanking -INFO - URL is opened
+2024-10-29 09:04:20,711 - ebanking -INFO - username entered
+2024-10-29 09:04:20,773 - ebanking -INFO - password entered
+2024-10-29 09:04:24,559 - ebanking -INFO - user name provided
+2024-10-29 09:04:24,612 - ebanking -INFO - password provided
+2024-10-29 09:04:28,848 - ebanking -INFO - providing customer details
+2024-10-29 09:05:20,608 - ebanking -INFO - test has started
+2024-10-29 09:05:20,625 - ebanking -INFO - URL is opened
+2024-10-29 09:05:20,691 - ebanking -INFO - username entered
+2024-10-29 09:05:20,759 - ebanking -INFO - password entered
+2024-10-29 09:05:24,357 - ebanking -INFO - user name provided
+2024-10-29 09:05:24,410 - ebanking -INFO - password provided
+2024-10-29 09:05:28,607 - ebanking -INFO - providing customer details
+2024-10-29 09:09:55,910 - ebanking -INFO - test has started
+2024-10-29 09:09:55,927 - ebanking -INFO - URL is opened
+2024-10-29 09:09:56,008 - ebanking -INFO - username entered
+2024-10-29 09:09:56,061 - ebanking -INFO - password entered
+2024-10-29 09:10:00,053 - ebanking -INFO - user name provided
+2024-10-29 09:10:00,114 - ebanking -INFO - password provided
+2024-10-29 09:10:04,389 - ebanking -INFO - providing customer details
